@@ -1,0 +1,13 @@
+The seventh and final satellite of the Indian Regional Navigation Satellite System, the IRNSS 1G, was launched into a sub geosynchronous transfer orbit with a perigree (nearest point to earth) of 284 km and an apogee (farthest point to earth) of 20,657 km. The satellite was launched on board the Polar Satellite Launch Vehicle (PSLV), which took off from the Sriharikota launch pad at 12.50 p.m.
+
+With this launch, the IRNSS constellation of seven satellites is now complete. This will allow the Indian Space Research Organisation (ISRO) to focus on the process of designing front end chips which will receive the navigational signals sent out by the satellites. 
+
+	The system will be similar to the Global Positioning System (GPS) operated by the United States with 24 satellites and the Glonass, Galileo and BeiDou systems of Russia, Europe and China respectively.All satellites will undergo stabilisation testing and verification of their performance over the next few months before being pushed into use, according to ISRO officials.
+
+An area of 1,500 km from Indian boundaries will be covered under the navigational system. The Prime Minister invited other countries to make use of this system as well. “We have seven neighbours who rely on technology provided by other countries. They can use Indian services if they want,” he said in a video message addressed to ISRO engineers.
+
+With an accuracy of better than 20 m being claimed by ISRO, the navigation system will be offered as an open or Standard Positioning Service and a superior, coded military Restricted Service.
+
+“We are now one of five countries with our own navigational system. Today we are free of dependence on other countries for navigation. Our planes will be able to land with ease and accuracy, we can plan disaster relief better and with our own technology,” a proud Mr. Modi said.
+
+Explaining the name NAVIC, Mr. Modi said the system was dedicated to India’s mariners and fishermen who have been navigating using the sun and stars as waypoints for hundreds of years. “They have shown strength and determination in venturing out to sea for so many years. We have named this system for them, the ‘naviks’ (mariners),” he said. 
